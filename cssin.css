@@ -228,3 +228,8 @@
     height: 200px; }.card-btn {    width: 35%;
     height: 10%;    border: 1px solid black;    background: transparent;    margin: 0 30%;    transition: 1.2s;
 }.card-btn:hover {    background: orange;    border: 1px solid orange; }
+
+.card-btn {    
+        border: 1px solid black;    background: transparent;    margin: 0 30%;    transition: 1.2s;
+}.card-btn:hover {    background: orange;    border: 1px solid orange; }
+.card-a img{    height: 21rem;    box-shadow: 2px 3px 5px rgba(1, 1, 3, 0.2); }.navbar-fixed {    top: 0;    position: fixed;    z-index: 99999; }
